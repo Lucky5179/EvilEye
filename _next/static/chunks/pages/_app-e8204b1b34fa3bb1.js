@@ -1305,14 +1305,8 @@
         k = r(7410);
       let T = [
         {
-          label: "Swap",
-          path: "https://app-evileye.vercel.app",
-          class: "",
-          type: "external",
-        },
-        {
           label: "Apps",
-          path: "https://app-evileye.vercel.app/apps",
+          path: "https://app-evileye.vercel.app",
           class: "",
           type: "external",
         },
@@ -1780,7 +1774,7 @@
             viewBox: "0 0 48 48",
             ...t,
             children: (0, m.jsx)("path", {
-              d: "M38.4 3.4c2.5 0 4.5 2 4.6 4.4v38.1l-4.7-4-2.6-2.4-2.9-2.5 1.2 3.9H9.2c-2.5 0-4.5-1.9-4.5-4.4V7.8c0-2.4 2-4.4 4.5-4.4h29.2zM27.6 13.5l-.4.4c3.7 1.1 5.4 2.7 5.4 2.7-2.4-1.2-4.5-1.8-6.6-2-1.5-.2-3.1-.1-4.4 0h-.4c-.8 0-2.6.4-5 1.3-.8.4-1.3.6-1.3.6s1.8-1.8 5.7-2.7l-.2-.2s-3-.1-6.1 2.2c0 0-3.2 5.6-3.2 12.4 0 0 1.8 3.1 6.6 3.2l1.4-1.8c-2.7-.8-3.8-2.5-3.8-2.5s.2.1.6.4h.1c.1 0 .1 0 .1.1l.1.1c.6.2 1.2.5 1.6.7.8.4 1.9.7 3.2.9 1.6.2 3.5.4 5.7 0 1.1-.2 2.1-.5 3.2-.9.7-.4 1.5-.7 2.5-1.3 0 0-1.1 1.7-3.9 2.5.6.8 1.4 1.8 1.4 1.8 4.9-.1 6.7-3.2 6.8-3.1 0-6.8-3.2-12.4-3.2-12.4-2.9-2.1-5.6-2.2-6.1-2.2l.2-.2zm.3 7.8c1.2 0 2.2 1.1 2.2 2.4 0 1.3-1 2.4-2.2 2.4-1.2 0-2.2-1.1-2.2-2.4-.1-1.3.9-2.4 2.2-2.4zm-8.1 0c1.2 0 2.2 1.1 2.2 2.4 0 1.3-1 2.4-2.2 2.4-1.2 0-2.2-1.1-2.2-2.4 0-1.3 1-2.4 2.2-2.4z",
+              d: "M 5.9199219 6 L 20.582031 27.375 L 6.2304688 44 L 9.4101562 44 L 21.986328 29.421875 L 31.986328 44 L 44 44 L 28.681641 21.669922 L 42.199219 6 L 39.029297 6 L 27.275391 19.617188 L 17.933594 6 L 5.9199219 6 z M 9.7167969 8 L 16.880859 8 L 40.203125 42 L 33.039062 42 L 9.7167969 8 z",
             }),
           });
         },
@@ -1955,70 +1949,8 @@
                     }),
                   ],
                 }),
-                (0, m.jsxs)(k.ZP, {
-                  $justify: "flex-start",
-                  children: [
-                    (0, m.jsx)("div", {
-                      className: "footer_title",
-                      children: "dApps",
-                    }),
-                    (0, m.jsx)("div", {
-                      children: (0, m.jsxs)("ul", {
-                        children: [
-                          (0, m.jsx)("li", {
-                            children: (0, m.jsx)("a", {
-                              href: "/",
-                              children: "EvilEye AMM",
-                            }),
-                          }),
-                          (0, m.jsx)("li", {
-                            children: (0, m.jsx)("a", {
-                              href: "/",
-                              children: "Morgoth DAO",
-                            }),
-                          }),
-                        ],
-                      }),
-                    }),
-                  ],
-                }),
-                (0, m.jsxs)(k.ZP, {
-                  $justify: "flex-start",
-                  children: [
-                    (0, m.jsx)("div", {
-                      className: "footer_title",
-                      children: "About EvilEye",
-                    }),
-                    (0, m.jsx)("div", {
-                      children: (0, m.jsxs)("ul", {
-                        children: [
-                          (0, m.jsx)("li", {
-                            children: (0, m.jsx)("a", {
-                              href: "/",
-                              children: "Gitbook",
-                            }),
-                          }),
-                          (0, m.jsx)("li", {
-                            children: (0, m.jsx)("a", {
-                              href: "https://github.com/EvilEye",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                              children: "Github",
-                            }),
-                          }),
-                          (0, m.jsx)("li", {
-                            children: (0, m.jsx)("a", {
-                              href: "https://medium.com/evileye",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                              children: "Medium",
-                            }),
-                          }),
-                        ],
-                      }),
-                    }),
-                  ],
-                }),
+
+
                 (0, m.jsxs)(k.ZP, {
                   $justify: "flex-start",
                   children: [
@@ -2036,7 +1968,7 @@
                             $widthMobile: "auto",
                             children: (0, m.jsx)("a", {
                               className: "social_link telegram",
-                              href: "https://t.me/BehodlerOfficial",
+                              href: "https://t.me/eveileye_channel",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               children: (0, m.jsx)(Z, {}),
@@ -2046,44 +1978,11 @@
                             $justify: "flex-start",
                             $widthMobile: "auto",
                             children: (0, m.jsx)("a", {
-                              className: "social_link discord",
-                              href: "https://discord.com/invite/FHhsqmryZK",
+                              className: "social_link twitter",
+                              href: "https://x.com/EvileyeAMM",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               children: (0, m.jsx)(J, {}),
-                            }),
-                          }),
-                          (0, m.jsx)(k.ZP, {
-                            $justify: "flex-start",
-                            $widthMobile: "auto",
-                            children: (0, m.jsx)("a", {
-                              className: "social_link github",
-                              href: "https://github.com/EvilEye",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                              children: (0, m.jsx)(X, {}),
-                            }),
-                          }),
-                          (0, m.jsx)(k.ZP, {
-                            $justify: "flex-start",
-                            $widthMobile: "auto",
-                            children: (0, m.jsx)("a", {
-                              className: "social_link medium",
-                              href: "https://medium.com/evileye",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                              children: (0, m.jsx)(K, {}),
-                            }),
-                          }),
-                          (0, m.jsx)(k.ZP, {
-                            $justify: "flex-start",
-                            $widthMobile: "auto",
-                            children: (0, m.jsx)("a", {
-                              className: "social_link reddit",
-                              href: "https://www.reddit.com/r/BehodlerAMM/",
-                              target: "_blank",
-                              rel: "noopener noreferrer",
-                              children: (0, m.jsx)(Y, {}),
                             }),
                           }),
                         ],

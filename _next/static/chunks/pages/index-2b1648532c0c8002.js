@@ -736,7 +736,7 @@
                             $grow: "grow",
                             children: (0, i.jsx)(P, {
                               description: "Total Liquidity",
-                              value: e,
+                              value: '10000000',
                               formatType: "compact",
                               isLoading: x,
                             }),
@@ -746,7 +746,7 @@
                             $grow: "grow",
                             children: (0, i.jsx)(P, {
                               description: "Total Volume",
-                              value: a,
+                              value: '0',
                               formatType: "compact",
                               isLoading: x,
                             }),
@@ -756,7 +756,7 @@
                             $grow: "grow",
                             children: (0, i.jsx)(P, {
                               description: "Total Tokens",
-                              value: p,
+                              value: '5',
                               formatType: "",
                               isLoading: x,
                             }),

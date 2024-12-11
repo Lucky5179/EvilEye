@@ -769,7 +769,7 @@
                                   title: "Scarcity",
                                   description: "$SCX",
                                   image: "/img/scarcity-logo.png",
-                                  url: "https://docs.evileye.io/tokens/scarcity",
+                                  url: "https://app-evileye.vercel.app/",
                                 }),
                               }),
                               (0, r.jsx)(a.ZP, {
@@ -778,7 +778,7 @@
                                   title: "EYE",
                                   description: "$EYE",
                                   image: "/img/eye_logo.svg",
-                                  url: "https://docs.evileye.io/tokens/eye",
+                                  url: "https://app-evileye.vercel.app/",
                                 }),
                               }),
                               (0, r.jsx)(a.ZP, {
@@ -787,7 +787,7 @@
                                   title: "Flan",
                                   description: "$Flan",
                                   image: "/img/flan-logo.png",
-                                  url: "https://docs.evileye.io/tokens/flan",
+                                  url: "https://app-evileye.vercel.app/",
                                 }),
                               }),
                             ],
@@ -952,8 +952,8 @@
                                       $heightMobile: 15,
                                     }),
                                     (0, r.jsx)(_.Z, {
-                                      url: "https://app.gitbook.com/@evileye-io/s/test-space/dapps/limbo",
-                                      text: "Learn more",
+                                      url: "https://app-evileye.vercel.app/",
+                                      text: "Swap Limbo",
                                     }),
                                     (0, r.jsx)(v.Z, {
                                       height: 30,
@@ -981,8 +981,8 @@
                                               $heightMobile: 15,
                                             }),
                                             (0, r.jsx)(_.Z, {
-                                              url: "https://docs.evileye.io/tokens/flan",
-                                              text: "Learn more",
+                                              url: "https://app-evileye.vercel.app/",
+                                              text: "Swap flan",
                                             }),
                                           ],
                                         }),
