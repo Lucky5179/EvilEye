@@ -704,7 +704,7 @@
                     (0, i.jsx)("div", {
                       className: "swap_hld",
                       children: (0, i.jsx)(B.Z, {
-                        url: "https://app.evileye.io",
+                        url: "https://app-evileye.vercel.app",
                         text: "Swap",
                       }),
                     }),
@@ -796,7 +796,7 @@
                                   description:
                                     "Swap tokens cheaply with logarithmic bonding curves.",
                                   image: "/img/ic-swap.svg",
-                                  url: "https://app.evileye.io",
+                                  url: "https://app-evileye.vercel.app",
                                 }),
                               }),
                               (0, i.jsx)(d.ZP, {

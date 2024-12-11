@@ -1306,13 +1306,13 @@
       let T = [
         {
           label: "Swap",
-          path: "https://app.evileye.io",
+          path: "https://app-evileye.vercel.app",
           class: "",
           type: "external",
         },
         {
           label: "Apps",
-          path: "https://app.evileye.io/apps",
+          path: "https://app-evileye.vercel.app/apps",
           class: "",
           type: "external",
         },

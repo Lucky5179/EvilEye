@@ -850,7 +850,7 @@
                                 $heightMobile: 15,
                               }),
                               (0, r.jsx)(_.Z, {
-                                url: "https://app.evileye.io",
+                                url: "https://app-evileye.vercel.app",
                                 text: "Swap",
                               }),
                               (0, r.jsx)(v.Z, {
@@ -871,7 +871,7 @@
                                 $heightMobile: 15,
                               }),
                               (0, r.jsx)(_.Z, {
-                                url: "https://app.evileye.io/",
+                                url: "https://app-evileye.vercel.app/",
                                 text: "Get $SCX",
                               }),
                             ],
@@ -1077,7 +1077,7 @@
                                       $heightMobile: 15,
                                     }),
                                     (0, r.jsx)(_.Z, {
-                                      url: "https://app.evileye.io/pyrotokens",
+                                      url: "https://app-evileye.vercel.app/pyrotokens",
                                       text: "Swap Pyrotokens",
                                     }),
                                   ],
@@ -1126,7 +1126,7 @@
                                 $heightMobile: 15,
                               }),
                               (0, r.jsx)(_.Z, {
-                                url: "https://app.evileye.io/",
+                                url: "https://app-evileye.vercel.app/",
                                 text: "Get $EYE",
                               }),
                             ],
